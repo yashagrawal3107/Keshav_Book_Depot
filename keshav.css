@@ -1,0 +1,52 @@
+div.a
+{
+ font-size:40px;
+}
+
+div.b
+{
+ position: relative;
+top: 10px;
+left: 10px;
+}
+div.c
+{
+ width: 150px;
+ background-color:#2980B9;
+}
+div.d
+{
+position: relative;
+left:160px;
+bottom: 290px;
+}
+div.e
+{
+position:relative;
+float:right;
+
+bottom:30px;
+}
+div.f
+{
+ width: 150px;
+ background-color:#F2F3F4;
+}
+div.g
+{
+ background-color:#F2F3F4;
+height:160px;
+}
+div.h
+{
+ background-color:#2980B9;
+
+}
+div.i
+{
+  position:relative;
+ 
+  bottom:200px;
+ background-color:#2980B9;
+ height:200px
+}
